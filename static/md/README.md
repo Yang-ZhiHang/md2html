@@ -16,7 +16,7 @@
 
 - 照片位于 `static/images/` 目录下，markdown 文档中要添加图片必需按照这样的格式：`<img src='../static/images/imagename.xxx'>`
 
-- 要查看 API 文档访问网址 `http://127.0.0.1:5000/docs/api/#API-Md2html`
+- 查看 API 文档访问网址 `http://127.0.0.1:5000/docs/api/#API-Md2html`
 
   <iframe width=100% height=800 src="http://127.0.0.1:5000/docs/api/#API-Md2html"></iframe>
 

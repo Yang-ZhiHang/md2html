@@ -17,3 +17,4 @@
 * 要读取的 markdown 文档位于 `static/md/` 目录下
 
 - 照片位于 `static/images/` 目录下，markdown 文档中要添加图片必需按照这样的格式：`<img src='../static/images/imagename.xxx'>`
+- 查看 API 文档访问网址 `http://127.0.0.1:5000/docs/api/#API-Md2html`
