@@ -1,8 +1,8 @@
 ## 使用方式
 
-1.运行 app.py，即后端解析 markdown 文档的程序
+1.将 markdown 文档放入 `static/md/` 
 
-2.将 markdown 文档放入 `static/md/` 
+2.运行 app.py，即后端解析 markdown 文档的程序
 
 3.修改 `static/js/` 目录下的 `index.js` 文件中的请求参数 filename，即 markdown 文档名字
 
