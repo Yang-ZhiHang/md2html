@@ -17,7 +17,7 @@ api = Blueprint("API", __name__)
 
 @app.get('/')
 def default_page():
-    return render_template("404.html")
+    return render_template("index.html")
 
 
 @app.get('/parse')
